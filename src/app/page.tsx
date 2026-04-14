@@ -30,7 +30,7 @@ export default function Home() {
             ingin menyapa sekaligus memperkenalkan diri secara profesional. Saya
             percaya proses belajar terbaik adalah yang terstruktur, hangat, dan
             mudah diterapkan.
-         
+          </p>
 
           <div className={styles.actions}>
             <a
