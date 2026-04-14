@@ -19,7 +19,7 @@ export default function Home() {
         </section>
 
         <section className={styles.content}>
-          <p className={styles.eyebrow}>ci/cd</p>
+          <p className={styles.eyebrow}>project ci/cd</p>
           <h1 className={styles.title}>Halo, saya Rian Septiawan.</h1>
           <p className={styles.lead}>
             Pengajar yang fokus membangun pembelajaran yang jelas, praktis, dan
